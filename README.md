@@ -119,15 +119,6 @@ A modernized cinema ticket booking platform with interactive seat selection, Pay
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GIKSenarathna&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIKSenarathna&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I am currently seeking internship opportunities in Full Stack Development, Mobile App Development, or UI/UX Design. Feel free to reach out!
