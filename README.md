@@ -125,7 +125,7 @@ I am currently seeking internship opportunities in Full Stack Development, Mobil
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imashi-senarathna">LinkedIn</a> •
-  <a href="mailto:imashikavya@gmail.com">Email</a>
+  📧 imashikavya@gmail.com
 </p>
 
 <p align="center">
